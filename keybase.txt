@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/scanstrong
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://scanstrong.com
+  * I am scanstrong (https://keybase.io/scanstrong) on keybase.
+  * I have a public key ASDxAK0b-96tRvSGi85UMxHuBCq7YggrWdPFA3xKrflrTQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f100ad1bfbdead46f4868bce543311ee042abb62082b59d3c5037c4aadf96b4d0a",
+      "host": "keybase.io",
+      "kid": "0120f100ad1bfbdead46f4868bce543311ee042abb62082b59d3c5037c4aadf96b4d0a",
+      "uid": "dc41420495504984c4ab266b6a548f19",
+      "username": "scanstrong"
+    },
+    "merkle_root": {
+      "ctime": 1572182999,
+      "hash": "1a935f3d4755e5e441904855087cd2b6721777e435f273f9d17635759e0bb7a5d40b0fa4d616248473ea437929d9d572fe67a0c90a3d8c525a39cd774093930d",
+      "hash_meta": "e7a3fd5ce75ad9aa1b84a11777fbf1fd0f58eca56cc7aeade83352e8d56d4c0c",
+      "seqno": 8437508
+    },
+    "service": {
+      "entropy": "Ru8kxyLloNOHUrnDsquWKhMy",
+      "hostname": "scanstrong.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.1"
+  },
+  "ctime": 1572183012,
+  "expire_in": 504576000,
+  "prev": "261252f8d214478f619c8160c207ec17d0c0df60da1ca8916a686265205b767d",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8QCtG/verUb0hovOVDMR7gQqu2IIK1nTxQN8Sq35a00Kp3BheWxvYWTESpcCEMQgJhJS+NIUR49hnIFgwgfsF9DA32DaHKiRamhiZSBbdn3EIN0bB6LLs0bR5Vm1XArpLYtI4H7oq+VXpcWM9SCCqulsAgHCo3NpZ8RAvH3NmVrqNsqXJno3Z0mfs3QGq6TjBSrg3IBlzluIhgFvHhv5AJu0dDD3PHTQctlgu4fF5/rabAuzZYtbnMk9C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKrkbIQBe5O7MyG1qxz/lZ1o81LV9qhBIy+/8AX0mC75o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scanstrong
+
+==================================================================
